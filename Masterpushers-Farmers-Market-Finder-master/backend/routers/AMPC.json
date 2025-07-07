@@ -1,0 +1,415 @@
+
+{
+	"APMCs": [
+		{
+			"ApmcStartDate": "1977-01-15 00:00:00",
+			"ApmcCode": "050",
+			"ApmcFullCode": "01110100",
+			"AddressE": "MADHYWARTI BULIDING,",
+			"AddressM": "प्रशासकीय  इमारत, 3 मजला,\nतुर्भे, नवी मुंबई ",
+			"PinCode": "400703",
+			"STDCode": "022",
+			"Phone": "27888414",
+			"FaxNo": "27889507 ",
+			
+			"MarketList": [
+				{
+					"MainMarketNameE": "Mumbai",
+					"MainMarketNameM": "मुंबई",
+					"MarketNameE": "",
+					"MarketNameM": "",
+					"MarketDate": "1980-09-25 00:00:00",
+					"Area": "72.5",
+					"MarketCode": null
+				},
+				{
+					"MainMarketNameE": "",
+					"MainMarketNameM": "",
+					"MarketNameE": "Onion \u0026 potato market",
+					"MarketNameM": "कांदा बटाटा मार्केट  ",
+					"MarketDate": "1977-01-14 00:00:00",
+					"Area": "7.92",
+					"MarketCode": null
+				},
+				{
+					"MainMarketNameE": "",
+					"MainMarketNameM": "",
+					"MarketNameE": "Spices \u0026 condiments",
+					"MarketNameM": "मसाला मार्केट(मार्केट-१)",
+					"MarketDate": "1980-06-04 00:00:00",
+					"Area": "19.26",
+					"MarketCode": null
+				},
+				{
+					"MainMarketNameE": "",
+					"MainMarketNameM": "",
+					"MarketNameE": "Vegetable market",
+					"MarketNameM": "भाजीपाला मार्केट ",
+					"MarketDate": "1980-06-04 00:00:00",
+					"Area": "8.595",
+					"MarketCode": null
+				},
+				{
+					"MainMarketNameE": "",
+					"MainMarketNameM": "",
+					"MarketNameE": "Fruit market",
+					"MarketNameM": "फळ मार्केट ",
+					"MarketDate": "1980-06-04 00:00:00",
+					"Area": "8.595",
+					"MarketCode": null
+				}
+			],
+			"ImpCommodityList": [
+				{
+					"CommodityNameE": "WHEAT(HUSKED)",
+					"CommodityNameM": "गहू"
+				},
+				{
+					"CommodityNameE": "RICE(PADDY-HUS)",
+					"CommodityNameM": "तांदूळ"
+				},
+				{
+					"CommodityNameE": "GREEN PEAS",
+					"CommodityNameM": "वाटाणा"
+				},
+				{
+					"CommodityNameE": "POTATO",
+					"CommodityNameM": "बटाटा"
+				},
+				{
+					"CommodityNameE": "LADIES FINGER",
+					"CommodityNameM": "भेंडी"
+				},
+				{
+					"CommodityNameE": "FLOWER",
+					"CommodityNameM": "फ्लॉवर"
+				},
+				{
+					"CommodityNameE": "ONION",
+					"CommodityNameM": "कांदा"
+				},
+				{
+					"CommodityNameE": "CABBAGE",
+					"CommodityNameM": "कोबी"
+				},
+				{
+					"CommodityNameE": "TOMATO",
+					"CommodityNameM": "टोमॅटो"
+				}
+			]
+		},
+		{
+			"ApmcStartDate": "0001-01-01 00:00:00",
+			"ApmcCode": "276",
+			"ApmcFullCode": "01140800",
+			"AddressE": null,
+			"AddressM": "श्यामराव पाटील ट्रस्ट सभागृह दु सरा मजला, मसोली डहाणू प तालुका डहाणू जिल्हा. पालघर पिन कोड 401602",
+			"PinCode": "",
+			"STDCode": null,
+			"Phone": "8788003249",
+			"FaxNo": null,
+		
+			"MarketList": [
+				{
+					"MainMarketNameE": "Dahanu",
+					"MainMarketNameM": "डहाणू",
+					"MarketNameE": "",
+					"MarketNameM": "",
+					"MarketDate": "2001-08-16 00:00:00",
+					"Area": "0.0",
+					"MarketCode": null
+				}
+			],
+			"ImpCommodityList": [
+				{
+					"CommodityNameE": "PADDY-UNHUSKED",
+					"CommodityNameM": "भात"
+				},
+				{
+					"CommodityNameE": "RICE(PADDY-HUS)",
+					"CommodityNameM": "तांदूळ"
+				},
+				{
+					"CommodityNameE": "GRASS",
+					"CommodityNameM": "गवत"
+				}
+			]
+		},
+		{
+			"ApmcStartDate": "1960-08-12 00:00:00",
+			"ApmcCode": "136",
+			"ApmcFullCode": "01140400",
+			"AddressE": null,
+			"AddressM": "AT-Post-Vevoor, Nandore Naka, Tal-Dist-Palghar.",
+			"PinCode": "401404",
+			"STDCode": "02525",
+			"Phone": "252695",
+			"FaxNo": null,
+			
+			"MarketList": [
+				{
+					"MarketCode": null,
+					"MarketNameE": "",
+					"MarketNameM": "",
+					"MarketDate": "1966-11-02 00:00:00",
+					"Area": "9.19",
+					"MainMarketNameE": "Palghar(Bevur)",
+					"MainMarketNameM": "पालघर (बेऊर)"
+				}
+			],
+			"ImpCommodityList": [
+				{
+					"CommodityNameE": "PADDY-UNHUSKED",
+					"CommodityNameM": "भात"
+				},
+				{
+					"CommodityNameE": "WHEAT(HUSKED)",
+					"CommodityNameM": "गहू"
+				},
+				{
+					"CommodityNameE": "OTHER CEREALS",
+					"CommodityNameM": "इतर धान्ये"
+				},
+				{
+					"CommodityNameE": "MAIZE",
+					"CommodityNameM": "मका"
+				},
+				{
+					"CommodityNameE": "RICE(PADDY-HUS)",
+					"CommodityNameM": "तांदूळ"
+				},
+				{
+					"CommodityNameE": "GREEN PEAS",
+					"CommodityNameM": "वाटाणा"
+				},
+				{
+					"CommodityNameE": "GR.NUT KERNELS",
+					"CommodityNameM": "शेंगदाणे"
+				},
+				{
+					"CommodityNameE": "MANGO",
+					"CommodityNameM": "आंबा"
+				},
+				{
+					"CommodityNameE": "SAPOTA",
+					"CommodityNameM": "चिक्कू"
+				},
+				{
+					"CommodityNameE": "GRAPES",
+					"CommodityNameM": "द्राक्षे"
+				},
+				{
+					"CommodityNameE": "WATER MELON",
+					"CommodityNameM": "कलिंगड"
+				},
+				{
+					"CommodityNameE": "BANANA",
+					"CommodityNameM": "केळी"
+				},
+				{
+					"CommodityNameE": "SWEET LEMON",
+					"CommodityNameM": "मोसंबी"
+				},
+				{
+					"CommodityNameE": "NASPATTI",
+					"CommodityNameM": "नासपत्ती"
+				},
+				{
+					"CommodityNameE": "GUAVA",
+					"CommodityNameM": "पेरु"
+				},
+				{
+					"CommodityNameE": "APPLE",
+					"CommodityNameM": "सफरचंद"
+				},
+				{
+					"CommodityNameE": "CUSTARD APPLE",
+					"CommodityNameM": "सिताफळ"
+				},
+				{
+					"CommodityNameE": "POTATO",
+					"CommodityNameM": "बटाटा"
+				},
+				{
+					"CommodityNameE": "LADIES FINGER",
+					"CommodityNameM": "भेंडी"
+				},
+				{
+					"CommodityNameE": "BOTTLE GOURD",
+					"CommodityNameM": "दूधी भोपळा"
+				},
+				{
+					"CommodityNameE": "FLOWER",
+					"CommodityNameM": "फ्लॉवर"
+				},
+				{
+					"CommodityNameE": "LEAFY VEGETABLE",
+					"CommodityNameM": "इतर भाज्या"
+				},
+				{
+					"CommodityNameE": "ONION",
+					"CommodityNameM": "कांदा"
+				},
+				{
+					"CommodityNameE": "TOMATO",
+					"CommodityNameM": "टोमॅटो"
+				},
+				{
+					"CommodityNameE": "BULLOCK",
+					"CommodityNameM": "बैल"
+				},
+				{
+					"CommodityNameE": "COW",
+					"CommodityNameM": "गाय"
+				},
+				{
+					"CommodityNameE": "BUFFALO",
+					"CommodityNameM": "म्हैस"
+				},
+				{
+					"CommodityNameE": "GOATS",
+					"CommodityNameM": "शेळ्या"
+				},
+				{
+					"CommodityNameE": "GRASS",
+					"CommodityNameM": "गवत"
+				},
+				{
+					"CommodityNameE": "FODDER",
+					"CommodityNameM": "वैरण"
+				},
+				{
+					"CommodityNameE": "FISH",
+					"CommodityNameM": "मासे"
+				}
+			]
+			
+		},
+		{
+			"ApmcStartDate": "1960-11-03 00:00:00",
+			"ApmcCode": "138",
+			"ApmcFullCode": "01140600",
+			"AddressE": null,
+			"AddressM": "को-ऑप.संकूल, दुसरा माळा, भाबोळा नाका, सांडोर, ता.वसई, जि.पालघर.",
+			"PinCode": "401207",
+			"STDCode": "0250",
+			"Phone": "",
+			"FaxNo": null,
+			
+			"MarketList": [
+				{
+					"MainMarketNameE": "Vasai",
+					"MainMarketNameM": "वसई",
+					"MarketNameE": "",
+					"MarketNameM": "",
+					"MarketDate": "1989-02-06 00:00:00",
+					"Area": "4.2",
+					"MarketCode": null
+				}
+			],
+			"ImpCommodityList": [
+				{
+					"CommodityNameE": "BULRUSH-MILLET",
+					"CommodityNameM": "बाजरी"
+				},
+				{
+					"CommodityNameE": "PADDY-UNHUSKED",
+					"CommodityNameM": "भात"
+				},
+				{
+					"CommodityNameE": "WHEAT(HUSKED)",
+					"CommodityNameM": "गहू"
+				},
+				{
+					"CommodityNameE": "SORGUM(JAWAR)",
+					"CommodityNameM": "ज्वारी"
+				},
+				{
+					"CommodityNameE": "RICE(PADDY-HUS)",
+					"CommodityNameM": "तांदूळ"
+				}
+			]
+			
+		
+		},
+		{
+			"ApmcStartDate": "1982-04-01 00:00:00",
+			"ApmcCode": "065",
+			"ApmcFullCode": "02190100",
+			"AddressE": null,
+			"AddressM": "चांदवड-मनमाड रोडलगत, बसस्थानका जवळ,चांदवड\nमु.पो.ता.चांदवड जि.नाशिक\t\n",
+			"PinCode": "423101",
+			"STDCode": "02556",
+			"Phone": "253283",
+			"FaxNo": "253283",
+			
+			"MarketList": [
+				{
+					"MainMarketNameE": "Chandvad",
+					"MainMarketNameM": "चांदवड",
+					"MarketNameE": "",
+					"MarketNameM": "",
+					"MarketDate": "1982-04-01 00:00:00",
+					"Area": "12.51",
+					"MarketCode": null
+				},
+				{
+					"MainMarketNameE": "",
+					"MainMarketNameM": "",
+					"MarketNameE": "Vadnerbhirav",
+					"MarketNameM": "वडनेरभैरव",
+					"MarketDate": "1976-09-11 00:00:00",
+					"Area": "1.36",
+					"MarketCode": null
+				},
+				{
+					"MainMarketNameE": "",
+					"MainMarketNameM": "",
+					"MarketNameE": "Wadali bhoi",
+					"MarketNameM": "वडाळीभोई",
+					"MarketDate": "1986-06-12 00:00:00",
+					"Area": "1.84",
+					"MarketCode": null
+				},
+				{
+					"MainMarketNameE": "",
+					"MainMarketNameM": "",
+					"MarketNameE": "Raipur",
+					"MarketNameM": "रायुपर",
+					"MarketDate": "2021-02-26 00:00:00",
+					"Area": "2.73",
+					"MarketCode": null
+				}
+			],
+			"ImpCommodityList": [
+				{
+					"CommodityNameE": "MAIZE",
+					"CommodityNameM": "मका"
+				},
+				{
+					"CommodityNameE": "LEAFY VEGETABLE",
+					"CommodityNameM": "इतर भाज्या"
+				},
+				{
+					"CommodityNameE": "ONION",
+					"CommodityNameM": "कांदा"
+				},
+				{
+					"CommodityNameE": "TOMATO",
+					"CommodityNameM": "टोमॅटो"
+				},
+				{
+					"CommodityNameE": "BETEL LEAVES",
+					"CommodityNameM": "विड्ाची पाने"
+				},
+				{
+					"CommodityNameE": "ZENDU",
+					"CommodityNameM": "झेंडू"
+				}
+			]
+		}
+		
+		
+	]
+	
+}

@@ -1,0 +1,139 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Veg Farms Color Theme Variables */
+:root {
+  --veg-primary-color: #4CAF50;
+  --veg-accent-color-1: #8D6E63;
+  --veg-accent-color-2: #AED581;
+  --veg-background: #F5F5F5;
+  --veg-notification-bg: #E8F5E9;
+}
+
+/* Poultry Farms Color Theme Variables */
+:root {
+  --poultry-primary-color: #FFC107;
+  --poultry-accent-color-1: #795548;
+  --poultry-accent-color-2: #8D6E63;
+  --poultry-background: #FFF8E1;
+  --poultry-notification-bg: #FFF3E0;
+}
+
+/* Global Smooth Scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Enhanced Scrollbar Styles */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+/* Scrollbar Track */
+::-webkit-scrollbar-track {
+  background-color: rgba(76, 175, 80, 0.1); /* Soft veg green background */
+  border-radius: 10px;
+}
+
+/* Scrollbar Thumb */
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(45deg, var(--veg-primary-color), var(--veg-accent-color-2));
+  border-radius: 10px;
+  border: 2px solid rgba(76, 175, 80, 0.2);
+  transition: all 0.3s ease;
+}
+
+/* Scrollbar Thumb Hover State */
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(45deg, var(--veg-accent-color-2), var(--veg-primary-color));
+  box-shadow: 0 0 10px rgba(76, 175, 80, 0.3);
+}
+
+/* Selection Styles */
+*::selection {
+  color: white;
+  background-color: var(--veg-primary-color);
+}
+
+/* Poultry Farms Theme (can be applied dynamically) */
+.poultry-theme {
+  ::-webkit-scrollbar-track {
+    background-color: rgba(255, 193, 7, 0.1); /* Soft poultry yellow background */
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(45deg, var(--poultry-primary-color), var(--poultry-accent-color-2));
+    border: 2px solid rgba(255, 193, 7, 0.2);
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(45deg, var(--poultry-accent-color-2), var(--poultry-primary-color));
+    box-shadow: 0 0 10px rgba(255, 193, 7, 0.3);
+  }
+
+  *::selection {
+    background-color: var(--poultry-primary-color);
+  }
+}
+
+/* Existing Google Translate Styles */
+body {
+  top: 0 !important;
+}
+
+.google-translate-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 10000;
+}
+
+.goog-logo-link,
+.goog-te-banner-frame,
+.VIpgJd-ZVi9od-l4eHX-hSRGPd,
+.VIpgJd-ZVi9od-ORHb-OEVmcd {
+  display: none !important;
+}
+
+.goog-te-gadget {
+  color: transparent !important;
+}
+
+.goog-te-gadget .goog-te-combo {
+  background-color: var(--veg-primary-color) !important;
+  color: white !important;
+  font-size: 15px;
+  border: 2px dotted #ffffff;
+  border-radius: 5px;
+  padding: 4px;
+}
+
+.goog-te-gadget .goog-te-combo option {
+  color: white;
+}
+
+#goog-gt-tt,
+.goog-te-balloon-frame {
+  display: none !important;
+}
+
+.goog-text-highlight {
+  background: none !important;
+  box-shadow: none !important;
+}
+
+.google-translate-container.hidden {
+  display: none !important;
+}
+
+body.light {
+  background-color: white;
+  color: black;
+}
+
+body.dark {
+  background-color: black;
+  color: white;
+}
